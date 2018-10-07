@@ -28,7 +28,7 @@ With this class being created, any programs in the future can have access to thi
 
 ### Basic Class Diagram for SQL Server
 
-Featured below is a basic UML class diagram for a database designed based on a given prompt and business rules. Currently I do not have access to the entire prompt as this was from a previous semester, but in short the database revolves around a plane airline.
+Featured below is a basic UML class diagram for a database designe based on a given prompt and business rules. Currently I do not have access to the entire prompt as this was from a previous semester, but in short the database revolves around a plane airline.
 
 ![capturehw4edit1](https://user-images.githubusercontent.com/43920487/46579821-5ae9e200-c9de-11e8-8941-447d5e5755cc.JPG)
 
