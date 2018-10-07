@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Shawn Dominguez Development
 
-You can use the [editor on GitHub](https://github.com/ShawnDominguezDEV/homepage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Born and raised in Rockport Texas, but currently living in San Marcos Texas. I am a Computer Information Systems major at Texas State University with an anticipated graduation date of December 2019. I am thoroughly interested in database management and implementation, as well as software and web development. Through my courses at Texas State I have a fundamental understanding of SQL database management, C# object oriented programming, and system analysis. Apart from that I am currently teaching myself Python programming through an outside web resource.
+	
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you would like to get in contact regarding collaborative projects or any opportunities feel free to navigate to [my LinkedIn profile](https://www.linkedin.com/in/shawndominguez/) and request a connection! Apart from that you can feel free to send me an email at ShawnDiego15@gmail.com with any questions, concerns, or inquiries.
+
 
 ### Markdown
 
