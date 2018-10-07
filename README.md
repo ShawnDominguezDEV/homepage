@@ -49,7 +49,7 @@ Instagram: [@ShawnDiego15](https://www.instagram.com/shawndiego15/?hl=en)<br />
 LinkedIn: [https://www.linkedin.com/in/shawndominguez/](https://www.linkedin.com/in/shawndominguez/)<br />
 Gmail: <a href="mailto:shawndiego15@gmail.com">ShawnDiego15@gmail.com</a><br />
 
-Still have questions? Check out my resume: [ShawnDominguezResume.docx](https://github.com/ShawnDominguezDEV/homepage/files/2453737/ShawnDominguezResume.docx) <br />
+Still have questions? Check out my resume: [SDResume.docx](https://github.com/ShawnDominguezDEV/homepage/files/2453759/SDResume.docx)
 
 Created: October 6, 2018<br />
 Last Modified: October 7, 2018
