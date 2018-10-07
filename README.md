@@ -1,4 +1,6 @@
-## Shawn Dominguez Development
+## About Me
+
+![linkedinpic](https://user-images.githubusercontent.com/43920487/46579264-8ca97b80-c9d3-11e8-9960-f32e771fe62d.jpg)
 
 Born and raised in Rockport Texas, but currently living in San Marcos Texas. I am a Computer Information Systems major at Texas State University with an anticipated graduation date of December 2019. I am thoroughly interested in database management and implementation, as well as software and web development. Through my courses at Texas State I have a fundamental understanding of SQL database management, C# object oriented programming, and system analysis. Apart from that I am currently teaching myself Python programming through an outside web resource.
 	
