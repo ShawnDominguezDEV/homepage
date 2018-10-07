@@ -10,7 +10,7 @@ If you would like to get in contact regarding collaborative projects or any oppo
 
 ### Currency Converter utilizing Classes in C#
 
-For the time being, this will feature the most recent graded assignment in my visual programming class. The project is a currency converter that allows a user to enter a value in US dollars, select a currency, and receive the converted value. The main content regarding this assignment is utilizing an outside class to perform all the calculations. This was our first at-home assignment for this semester so it is a simple program that allows us to build upon as we develop our skills.
+For the time being, this will feature the most recent graded assignment in my visual programming class. The project is a currency converter that allows a user to enter a value in US dollars, select a currency, and retreive the converted value. The main content regarding this assignment is utilizing an outside class to perform all of the calculations. This was our first at-home assignment for the semester so it is a simple program that allows us to build upon as we develop our skills.
 
 Personalized GUI for the currency converter:
 ![convcap](https://user-images.githubusercontent.com/43920487/46579610-d053b380-c9da-11e8-862e-3c01828fcb73.JPG)
@@ -25,16 +25,29 @@ As you can see in the images above, all of the calculations are performed in the
 With this class being created, any programs in the future can have access to this conversion calculator. I am building my own personal class library as I progress, and will more than likely upload it when it contains more content.
 
 
+### Basic Class Diagram for SQL Server
+
+Featured below is a basic UML class diagram for a database designed based on a given prompt and business rules. Currently I do not have access to the entire prompt as this was from a previous semester, but in short the database revolves around a plane airline.
+
+![capturehw4edit1](https://user-images.githubusercontent.com/43920487/46579821-5ae9e200-c9de-11e8-8941-447d5e5755cc.JPG)
+
+Once we have designed our class diagram we can move onto actual construction of the database in SQL server. I have my text file for this design featured here: [ConstructTable.txt](https://github.com/ShawnDominguezDEV/homepage/files/2453722/ConstructTable.txt)
+
+
+For the last part of this assignment we were tasked with running various queries through our data. These queries written for SQL are listed here as well.
+[SqlQueries.txt](https://github.com/ShawnDominguezDEV/homepage/files/2453723/SqlQueries.txt)
+
+
 ### Additional Information
 
 This page will temporarily be short of content, but as my experience progresses the amount and depth of content will increase.
 
 Feel free to connect with or contact me at any of the following - <br />
 Facebook: [Diego Dominguez](https://www.facebook.com/diego.dominguez.9277?ref=bookmarks) <br />
-Twitter: TBD <br / >
+Twitter: TBD <br />
 Instagram: [@ShawnDiego15](https://www.instagram.com/shawndiego15/?hl=en)<br />
 LinkedIn: [https://www.linkedin.com/in/shawndominguez/](https://www.linkedin.com/in/shawndominguez/)<br />
 
-Created: October 6, 2018<br/>
+Created: October 6, 2018<br />
 Last Modified: October 7, 2018
 
