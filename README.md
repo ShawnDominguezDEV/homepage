@@ -8,7 +8,7 @@ Born and raised in Rockport Texas, but currently living in San Marcos Texas. I a
 If you would like to get in contact regarding collaborative projects or any opportunities feel free to navigate to [my LinkedIn profile](https://www.linkedin.com/in/shawndominguez/) and request a connection! Apart from that you can feel free to <a href="mailto:shawndiego15@gmail.com">send me an email</a> with any questions, concerns, or inquiries.
 
 
-### Currency Converter utilizing Classes
+### Currency Converter utilizing Classes in C#
 
 For the time being, this will feature the most recent graded assignment in my visual programming class. The project is a currency converter that allows a user to enter a value in US dollars, select a currency, and receive the converted value. The main content regarding this assignment is utilizing an outside class to perform all the calculations. This was our first at-home assignment for this semester so it is a simple program that allows us to build upon as we develop our skills.
 
@@ -19,6 +19,7 @@ Code for the currency converter class, retrieved from a seperate class library:
 Code behind the currency converter form:
 ![convcap3](https://user-images.githubusercontent.com/43920487/46579609-d053b380-c9da-11e8-8cc3-96be47e9c619.JPG)
 
+
 As you can see in the images above, all of the calculations are performed in the currency converter class. The code behind the form for the project simply calls upon the class to perform the calculations and retrieves the result. When the conversion button is clicked, the form retrieves the value from the textbox and parses it into a decimal data type. The conversion type is obtained from the listbox, and the values are sent into the currency converter class for calculation.
 
 With this class being created, any programs in the future can have access to this conversion calculator. I am building my own personal class library as I progress, and will more than likely upload it when it contains more content.
@@ -28,12 +29,12 @@ With this class being created, any programs in the future can have access to thi
 
 This page will temporarily be short of content, but as my experience progresses the amount and depth of content will increase.
 
-Feel free to connect with or contact me at any of the following -
-Facebook: [Diego Dominguez](https://www.facebook.com/diego.dominguez.9277?ref=bookmarks)
-Twitter: TBD
-Instagram: [@ShawnDiego15](https://www.instagram.com/shawndiego15/?hl=en)
-LinkedIn: [https://www.linkedin.com/in/shawndominguez/](https://www.linkedin.com/in/shawndominguez/)
+Feel free to connect with or contact me at any of the following - <br />
+Facebook: [Diego Dominguez](https://www.facebook.com/diego.dominguez.9277?ref=bookmarks) <br />
+Twitter: TBD <br / >
+Instagram: [@ShawnDiego15](https://www.instagram.com/shawndiego15/?hl=en)<br />
+LinkedIn: [https://www.linkedin.com/in/shawndominguez/](https://www.linkedin.com/in/shawndominguez/)<br />
 
-Created: October 6, 2018
+Created: October 6, 2018<br/>
 Last Modified: October 7, 2018
 
