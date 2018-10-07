@@ -34,7 +34,7 @@ Featured below is a basic UML class diagram for a database designed based on a g
 Once we have designed our class diagram we can move onto actual construction of the database in SQL server. I have my text file for this design featured here: [ConstructTable.txt](https://github.com/ShawnDominguezDEV/homepage/files/2453722/ConstructTable.txt)
 
 
-For the last part of this assignment we were tasked with running various queries through our data. These queries written for SQL are listed here as well.
+For the last part of this assignment we were tasked with running various queries through our data. These queries written for SQL are listed here as well: 
 [SqlQueries.txt](https://github.com/ShawnDominguezDEV/homepage/files/2453723/SqlQueries.txt)
 
 
@@ -47,6 +47,9 @@ Facebook: [Diego Dominguez](https://www.facebook.com/diego.dominguez.9277?ref=bo
 Twitter: TBD <br />
 Instagram: [@ShawnDiego15](https://www.instagram.com/shawndiego15/?hl=en)<br />
 LinkedIn: [https://www.linkedin.com/in/shawndominguez/](https://www.linkedin.com/in/shawndominguez/)<br />
+Gmail: <a href="mailto:shawndiego15@gmail.com">ShawnDiego15@gmail.com</a><br />
+
+Still have questions? Check out my resume: [ShawnDominguezResume.docx](https://github.com/ShawnDominguezDEV/homepage/files/2453737/ShawnDominguezResume.docx) <br />
 
 Created: October 6, 2018<br />
 Last Modified: October 7, 2018
