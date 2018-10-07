@@ -8,34 +8,32 @@ Born and raised in Rockport Texas, but currently living in San Marcos Texas. I a
 If you would like to get in contact regarding collaborative projects or any opportunities feel free to navigate to [my LinkedIn profile](https://www.linkedin.com/in/shawndominguez/) and request a connection! Apart from that you can feel free to <a href="mailto:shawndiego15@gmail.com">send me an email</a> with any questions, concerns, or inquiries.
 
 
-### Markdown
+### Currency Converter utilizing Classes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For the time being, this will feature the most recent graded assignment in my visual programming class. The project is a currency converter that allows a user to enter a value in US dollars, select a currency, and receive the converted value. The main content regarding this assignment is utilizing an outside class to perform all the calculations. This was our first at-home assignment for this semester so it is a simple program that allows us to build upon as we develop our skills.
 
-```markdown
-Syntax highlighted code block
+Personalized GUI for the currency converter:
+![convcap](https://user-images.githubusercontent.com/43920487/46579610-d053b380-c9da-11e8-862e-3c01828fcb73.JPG)
+Code for the currency converter class, retrieved from a seperate class library:
+![convcap2](https://user-images.githubusercontent.com/43920487/46579608-d053b380-c9da-11e8-9872-c7f350b0926b.JPG)
+Code behind the currency converter form:
+![convcap3](https://user-images.githubusercontent.com/43920487/46579609-d053b380-c9da-11e8-8cc3-96be47e9c619.JPG)
 
-# Header 1
-## Header 2
-### Header 3
+As you can see in the images above, all of the calculations are performed in the currency converter class. The code behind the form for the project simply calls upon the class to perform the calculations and retrieves the result. When the conversion button is clicked, the form retrieves the value from the textbox and parses it into a decimal data type. The conversion type is obtained from the listbox, and the values are sent into the currency converter class for calculation.
 
-- Bulleted
-- List
+With this class being created, any programs in the future can have access to this conversion calculator. I am building my own personal class library as I progress, and will more than likely upload it when it contains more content.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Additional Information
 
-[Link](url) and ![Image](src)
-```
+This page will temporarily be short of content, but as my experience progresses the amount and depth of content will increase.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Feel free to connect with or contact me at any of the following -
+Facebook: [Diego Dominguez](https://www.facebook.com/diego.dominguez.9277?ref=bookmarks)
+Twitter: TBD
+Instagram: [@ShawnDiego15](https://www.instagram.com/shawndiego15/?hl=en)
+LinkedIn: [https://www.linkedin.com/in/shawndominguez/](https://www.linkedin.com/in/shawndominguez/)
 
-### Jekyll Themes
+Created: October 6, 2018
+Last Modified: October 7, 2018
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShawnDominguezDEV/homepage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
