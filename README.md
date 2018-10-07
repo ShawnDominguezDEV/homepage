@@ -2,11 +2,12 @@
 
 ![linkedinpic](https://user-images.githubusercontent.com/43920487/46579264-8ca97b80-c9d3-11e8-9960-f32e771fe62d.jpg)
 
-Born and raised in Rockport Texas, but currently living in San Marcos Texas. I am a Computer Information Systems major at Texas State University with an anticipated graduation date of December 2019. I am thoroughly interested in database management and implementation, as well as software and web development. Through my courses at Texas State I have a fundamental understanding of SQL database management, C# object oriented programming, and system analysis. Apart from that I am currently teaching myself Python programming through an outside web resource.
+Born and raised in Rockport Texas and currently living in San Marcos Texas. I am a Computer Information Systems major at Texas State University with an anticipated graduation date of December 2019. I am thoroughly interested in database management and implementation, as well as software and web development. Through my courses at Texas State I have a fundamental understanding of SQL database management, C# object oriented programming, and system analysis. Apart from that I am currently teaching myself Python programming through an outside web resource.
 	
 
 If you would like to get in contact regarding collaborative projects or any opportunities feel free to navigate to [my LinkedIn profile](https://www.linkedin.com/in/shawndominguez/) and request a connection! Apart from that you can feel free to <a href="mailto:shawndiego15@gmail.com">send me an email</a> with any questions, concerns, or inquiries.
 
+My goal for this site is to publish programs and projects I create throughout my experience in the information technology field. Ultimately I would love to network and collaborate with others who have similair interests and goals.
 
 ### Currency Converter utilizing Classes in C#
 
