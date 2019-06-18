@@ -2,7 +2,9 @@
 
 ![linkedinpic](https://user-images.githubusercontent.com/43920487/46579264-8ca97b80-c9d3-11e8-9960-f32e771fe62d.jpg)
 
-Born and raised in Rockport Texas and currently living in San Marcos Texas. I am a Computer Information Systems major at Texas State University with an anticipated graduation date of December 2019. I am thoroughly interested in database management and implementation, as well as software and web development. Through my courses at Texas State I have a fundamental understanding of SQL database management, C# object oriented programming, and system analysis. Apart from that I am currently teaching myself Python programming through an outside web resource.
+Born and raised in Rockport Texas and currently living in San Marcos Texas. I am a Computer Information Systems major at Texas State University with an anticipated graduation date of December 2019. I am thoroughly interested in database management and implementation, as well as software and application development. Through my courses at Texas State I have a fundamental understanding of SQL database management, object oriented programming, and system analysis. Apart from my studies at the university, I am currently teaching myself Python programming through an outside web resource.
+
+In my spare time, I enjoy spending time in the fresh air whether at a local park or live music event. My music interests vary widely from classic rock to hip-hop/rap. I also have a cat, Ruca, who is about 2 years old that I enjoy my nights at home with.
 	
 
 If you would like to get in contact regarding collaborative projects or any opportunities feel free to navigate to [my LinkedIn profile](https://www.linkedin.com/in/shawndominguez/) and request a connection! Apart from that you can feel free to <a href="mailto:shawndiego15@gmail.com">send me an email</a> with any questions, concerns, or inquiries.
@@ -10,6 +12,8 @@ If you would like to get in contact regarding collaborative projects or any oppo
 My goal for this site is to publish programs and projects I create throughout my experience in the information technology field. Ultimately I would love to network and collaborate with others who have similair interests and goals.
 
 ### Currency Converter utilizing Classes in C#
+
+{Soon to be Replaced}
 
 For the time being, this will feature the most recent graded assignment in my visual programming class. The project is a currency converter that allows a user to enter a value in US dollars, select a currency, and retreive the converted value. The main content regarding this assignment is utilizing an outside class to perform all of the calculations. This was our first at-home assignment for the semester so it is a simple program that allows us to build upon as we develop our skills.
 
@@ -27,6 +31,8 @@ With this class being created, any programs in the future can have access to thi
 
 
 ### Basic Class Diagram for SQL Server
+
+{Soon to be Replaced}
 
 Featured below is a basic UML class diagram for a database designe based on a given prompt and business rules. Currently I do not have access to the entire prompt as this was from a previous semester, but in short the database revolves around a plane airline.
 
