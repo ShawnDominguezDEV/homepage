@@ -2,11 +2,16 @@
 
 ![linkedinpic](https://user-images.githubusercontent.com/43920487/46579264-8ca97b80-c9d3-11e8-9960-f32e771fe62d.jpg)
 
-Born and raised in Rockport Texas and currently living in San Marcos Texas. I am a Computer Information Systems major at Texas State University with an anticipated graduation date of December 2019. I am thoroughly interested in database management and implementation, as well as software and application development. Through my courses at Texas State I have a fundamental understanding of SQL database management, object oriented programming, and system analysis. Apart from my studies at the university, I am currently teaching myself Python programming through an outside web resource.
+Born and raised in Rockport Texas and currently living in Austin Texas. As a graduate of Texas State University with a BBA in Computer Information Systems, I am thoroughly interested in database management, as well as software and application development. Through my courses at Texas State I have a fundamental understanding of SQL database management, object oriented programming, system analysis, and web development. Apart from my studies at the university, I am currently teaching myself Python programming through an outside resource.
 
-In my spare time, I enjoy spending time in the fresh air whether at a local park or live music event. My music interests vary widely from classic rock to hip-hop/rap. I also have a cat, Ruca, who is about 2 years old that I enjoy my nights at home with.
+In my spare time, I enjoy spending time in the fresh air whether at a local park or live music event. My music interests vary widely from classic rock to hip-hop/rap. I also have a cat, Ruca, who is about 3 years old that I enjoy my nights at home with.
+
+## Employment Opportunities
+
+My most recent place of employment was at Insight where I served as an Inside Sales Account Executive. In this role I ensured our clients had ample access and ease when it come to the procurement of their IT needs. As a hardware and software reseller with over 5000 partners, I was required to know general information on a plethora of products from leading OEM's. While at Insight I was not only tasked with handling current customers, but bringing in new business with over $150k of new business brought in within my time of employment. Althought I exceled at sales, I want to take these interpersonal and technical skills and begin applying them closer to my field of study. I am currently in the market for entry positions into the IT field to broaden my experience. Some of the roles I have been actively looking into and applying for are related to Help Desk or Quality Assurance, but I have an open mind when it comes to new employment.
+
+As someone actively looking for a new career, I would love any opportuntiy to engage with recruiters. Please feel free to reach out to me through my e-mail or LinkedIn which are both listed in the following paragraph. 
 	
-
 If you would like to get in contact regarding collaborative projects or any opportunities feel free to navigate to [my LinkedIn profile](https://www.linkedin.com/in/shawndominguez/) and request a connection! Apart from that you can feel free to <a href="mailto:shawndiego15@gmail.com">send me an email</a> with any questions, concerns, or inquiries.
 
 My goal for this site is to publish programs and projects I create throughout my experience in the information technology field. Ultimately I would love to network and collaborate with others who have similair interests and goals.
